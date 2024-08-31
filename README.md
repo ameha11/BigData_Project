@@ -9,3 +9,8 @@ One of the most effective ways to retain customers is by identifying potential c
 This project aims to analyze the likelihood of customer attrition in the online retail market using RFM (Recency, Frequency, Monetary) analysis. RFM is a proven marketing model for customer segmentation based on transaction history—how recently, how often, and how much a customer has spent.
 
 By assigning scores to each customer, this analysis helps predict those at risk of churning, while also exploring various related questions.
+
+** Who are the best customers?
+** Which of your customers can be retained?
+** Who are the loyal customers?
+** Where are our new customers?
