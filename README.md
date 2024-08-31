@@ -14,7 +14,7 @@ By assigning scores to each customer, this analysis helps predict those at risk 
 - Which of your customers can be retained?
 - Who are the loyal customers?
 - Where are our new customers?
-- 
+  
 This project explores which customers are truly at risk to churn and it provides insights on which target incentives would be useful for customers to stay and extend the customer’s lifetime value (CLV) in the online retail market.
 
 ## Business Understanding
