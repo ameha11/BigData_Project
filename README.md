@@ -10,7 +10,7 @@ This project aims to analyze the likelihood of customer attrition in the online 
 
 By assigning scores to each customer, this analysis helps predict those at risk of churning, while also exploring various related questions.
 
-** Who are the best customers?
-** Which of your customers can be retained?
-** Who are the loyal customers?
-** Where are our new customers?
+- Who are the best customers?
+- Which of your customers can be retained?
+- Who are the loyal customers?
+- Where are our new customers?
